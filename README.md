@@ -29,7 +29,7 @@
 <h2 align="center">Hello there! My name is Davis David. 🤓 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <p align="center">I'm a Software Developer, Data Scientist, Tech Content Creator and Zindi Africa Ambassador from Tanzania.
 I have a background in Computer Science. I'm passionate about Artificial Intelligence, Machine Learning, Deep Learning and Big Data. I'm also the Co-Organizer and Facilitator of Artificial Intelligence (AI) movement in Tanzania by conducting AI meetups, workshops and events with a passion to build a community of Data Scientists in Tanzania to solve our local problems. Also, I organized Pythontz and TanzanAi Lab Community and conduct different Machine Learning Hackathons in Tanzania. 
-When I'm not developing and building things, you can find me on Youtube learning, writing an article, watching movies and Football and jogging. But most of my days are spent working on projects while listening to slow background music./p>
+When I'm not developing and building things, you can find me on Youtube learning, writing  articles, watching movies and Football games and jogging. But most of my days are spent working on projects while listening to slow background music.</p>
 
 
 
@@ -58,16 +58,14 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [Ajulu's Thoughts New Website](https://ajulusthoughts3.netlify.app)  🚀 *coming very soon*
 
 ### 📫 Where to find me
-- [Facebook](https://facebook.com/stephenajulu) 😏
-- [Twitter](https://twitter.com/stephenajulu) 🐤
-- [Instagram](https://instagram.com/stephenajulu) 😎
-- [LinkedIn](https://linkedin.com/in/stephenajulu) 👨💼
-- [Website](https://stephenajulu.com) 😏🔗
-- [Blog](https://ajulusthoughts.wordpress.com) 🤓💻
-- [Additional places to find me](https://stephenajulu.com/links) 🔗🔗
-- [Sign up for my newsletter](https://ajulusthoughts.substack.com) 💌
-- [New Blog: Coming Soon](https://ajulusthoughts3.netlify.app) 🔨✒
-- [TechWit Ke: Also Coming Soon](https://techwit2.netlify.app) 🔨✒
+- [Facebook](https://web.facebook.com/davis.genius) 😏
+- [Twitter](https://twitter.com/Davis_McDavid) 🐤
+- [Instagram](https://www.instagram.com/davis.genius) 😎
+- [LinkedIn](https://www.linkedin.com/in/davis-david-783461124) 👨💼
+- [Blog](https://medium.com/@Davis_David) 🤓💻
+- [Zindi Africa](https://zindi.africa/users/Davisy) 🔗🔗
+
+
 
 ![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&theme=radical)
 
