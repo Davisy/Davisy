@@ -56,13 +56,17 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [FreeCodeCamp](https://www.freecodecamp.org/news/author/davis/) 🤓💻
 - [Zindi Africa](https://zindi.africa/users/Davisy) 🔗🔗
 
-<div align="center">
+<span align='center'>
+  
   [![Davis's github stats](https://github-readme-stats.vercel.app/api?username=Davisy&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
-<div align="center">
+</span>
+
+<span align='center'>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davisy&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-</div>  
+
+</span>  
 
 <!--
 **Davisy/Davisy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
