@@ -47,21 +47,6 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [Features Selection by using Voting Approach](https://medium.com/analytics-vidhya/feature-selection-by-using-voting-approach-e0d1c7182a21)
 <!-- BLOG-POST-LIST:END -->
 
-### 💼 Where i am currently working at/as
-- [OwlSec Technologies: Founder and Consultant](https://owlsectechnologies.co.ke) 💼 
-- [TechWit Ke: Chief Editor, Developer and Founder](https://techwit3.netlify.com) ✒
-- [Open World: Freelance](https://stephenajulu.com)
-
-### 💻 What i am currently/done working on
-- [GreeetinCard](https://greeetincard.crd.co)  🚀
-- Tech6  🚀 *coming soon*
-- [T.H.I.S](https://this1.netlify.app)  🚀 *coming very soon*
-- BioEmergency & Biomme  🚀 *coming soon*
-- Quevant  🚀 *coming very soon* 🚀
-- [TechWit Ke](https://techwit2.netlify.app)  🚀 *coming very soon* 🚀
-- Lofied  🚀 *coming soon*
-- [Ajulu's Thoughts New Website](https://ajulusthoughts3.netlify.app)  🚀 *coming very soon*
-
 ### 📫 Where to find me
 - [Facebook](https://web.facebook.com/davis.genius) 😏
 - [Twitter](https://twitter.com/Davis_McDavid) 🐤
@@ -71,11 +56,12 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [FreeCodeCamp](https://www.freecodecamp.org/news/author/davis/) 🤓💻
 - [Zindi Africa](https://zindi.africa/users/Davisy) 🔗🔗
 
-
-
-[![Davis's github stats](https://github-readme-stats.vercel.app/api?username=Davisy&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  [![Davis's github stats](https://github-readme-stats.vercel.app/api?username=Davisy&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davisy&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+</div>  
+
 <!--
 **Davisy/Davisy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
