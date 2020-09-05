@@ -5,7 +5,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Davisy&repo=Model-Deployment-by-using-Flask)](https://github.com/Davisy/Model-Deployment-by-using-Flask)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davisy&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- example how to align center -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -44,6 +44,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [How to Run Machine Learning Experiments with Python Logging Module](https://medium.com/analytics-vidhya/how-to-run-machine-learning-experiments-with-python-logging-module-9030fbee120e?source=friends_link&sk=3800817b2ff4a1982d197aba56a25bb3)
 - [Auto Format your Python Code with Black.](https://medium.com/analytics-vidhya/auto-format-your-python-code-with-black-f74d5f13bd7c?source=friends_link&sk=990e16094f2e580c34aecdb3730fb147)
 - [Get Started With Big Data Analytics For Your Business.](https://medium.com/parrotai/get-started-with-big-data-analytics-for-your-business-5702e1f4de6e?source=friends_link&sk=84c3a7c014db0801335e0469ee96834d)
+- [Features Selection by using Voting Approach](https://medium.com/analytics-vidhya/feature-selection-by-using-voting-approach-e0d1c7182a21)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💼 Where i am currently working at/as
@@ -74,6 +75,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 [![Davis's github stats](https://github-readme-stats.vercel.app/api?username=Davisy&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davisy&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Davisy/Davisy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
