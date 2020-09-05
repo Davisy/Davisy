@@ -18,44 +18,44 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 <!-- example how to align center -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&repo=Run-Machine-Learning-Experiment" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=Run-Machine-Learning-Experiment" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&repo=Model-Deployment-by-using-Flask" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=Model-Deployment-by-using-Flask" />
 </a>
 
 
 <!-- example how to align center -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&repo=Standard-Bank-Tech-Impact-Xente-credit-scoring-challenge" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=Standard-Bank-Tech-Impact-Xente-credit-scoring-challenge" />
 </a>
 
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&repo=BBC-News-Classifier-with-LSTM-" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=BBC-News-Classifier-with-LSTM-" />
 </a>
 
 
 <!-- example how to align center -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&repo=TANZANIA-CORONA-VIRUS-TWEETS-DATA-EXPLORATORY-ANALYSIS" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=TANZANIA-CORONA-VIRUS-TWEETS-DATA-EXPLORATORY-ANALYSIS" />
 </a>
 
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&repo=Credit-Card-Fraud-Detection-using-PYOD-Library" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=Credit-Card-Fraud-Detection-using-PYOD-Library" />
 </a>
 
 
 <!-- example how to align center -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&repo=How-to-Enter-Your-First-Zindi-Competition" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=How-to-Enter-Your-First-Zindi-Competition" />
 </a>
 
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&repo=Texthero-Python-Toolkit" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=Texthero-Python-Toolkit" />
 </a>
 
 
