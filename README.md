@@ -1,16 +1,5 @@
 
 
-
-
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Davisy&repo=Model-Deployment-by-using-Flask)](https://github.com/Davisy/Model-Deployment-by-using-Flask)
-
-
-
-
-
-
-
 ## [![stephen ajulu's header](https://github.com/stephenajulu/stephenajulu/blob/master/images/edited%20header.png)](https://stephenajulu.com)
 
 <p align='center'>
@@ -25,7 +14,7 @@
 I have a background in Computer Science. I'm passionate about Artificial Intelligence, Machine Learning, Deep Learning and Big Data. I'm also the Co-Organizer and Facilitator of Artificial Intelligence (AI) movement in Tanzania by conducting AI meetups, workshops and events with a passion to build a community of Data Scientists in Tanzania to solve our local problems. Also, I organized Pythontz and TanzanAi Lab Community and conduct different Machine Learning Hackathons in Tanzania. 
 When I'm not developing and building things, you can find me on Youtube learning, writing  articles, watching movies and Football games and jogging. But most of my days are spent working on projects while listening to slow background music.</p>
 
-### Repository Highlights 
+### My Repositories Highlights 
 
 <!-- example how to align center -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -42,14 +31,17 @@ When I'm not developing and building things, you can find me on Youtube learning
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&repo=Standard-Bank-Tech-Impact-Xente-credit-scoring-challenge" />
 </a>
 
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&repo=BBC-News-Classifier-with-LSTM-" />
 </a>
+
 
 <!-- example how to align center -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&repo=TANZANIA-CORONA-VIRUS-TWEETS-DATA-EXPLORATORY-ANALYSIS" />
 </a>
+
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&repo=Credit-Card-Fraud-Detection-using-PYOD-Library" />
@@ -60,6 +52,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&repo=How-to-Enter-Your-First-Zindi-Competition" />
 </a>
+
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&repo=Texthero-Python-Toolkit" />
