@@ -1,6 +1,6 @@
 
 
-[![Davis's github stats](https://github-readme-stats.vercel.app/api?username=Davisy&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Davisy&repo=Model-Deployment-by-using-Flask)](https://github.com/Davisy/Model-Deployment-by-using-Flask)
@@ -35,11 +35,15 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 ### 📰 Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Simple Personal URL Shortener with GitHub, Netlify and an Affordable Domain Name](https://blog.stephenajulu.com/post/how-to-create-a-simple-personal-url-shortener-with-github-netlify-and-an-affordable-domain-name/)
-- [How to Create a Dev Environment in Windows 10: Part 1](https://blog.stephenajulu.com/post/how-to-create-a-dev-environment-in-windows-10-part-1/)
-- [Resources for Building a Beautiful Progressive JAMstack Blog](https://blog.stephenajulu.com/post/resources-for-building-a-beautiful-progressive-jamstack-blog/)
-- [Building a Beautiful Progressive JAMstack Blog Part 2: Day 4 to 7](https://blog.stephenajulu.com/post/building-a-beautiful-progressive-jamstack-blog-part-2-day-4-to-7/)
-- [Building a Beautiful Progressive JAMstack Blog Part 1: Day 1 to 3](https://blog.stephenajulu.com/post/building-a-beautiful-progressive-jamstack-blog-part-1-day-1-to-3/)
+- [14 Lesser-Known Impressive Features of Scikit Learn Library](https://towardsdatascience.com/14-lesser-known-impressive-features-of-scikit-learn-library-e7ea36f1149a?source=friends_link&sk=635389b9693d6a6d0454438e1a7d425d)
+- [How to Use Texthero to Prepare a Text-based Dataset for Your NLP Project](https://chatbotslife.com/how-to-use-texthero-to-prepare-a-text-based-dataset-for-your-nlp-project-734feea75a5a?source=friends_link&sk=c07790ae1b1d7c21e22428d94af9a5d0)
+- [15 Undiscovered & Open Source Machine Learning Frameworks You Need to Know in 2020](https://medium.com/analytics-vidhya/15-undiscovered-open-source-machine-learning-frameworks-you-need-to-know-in-2020-77ad6e6f109d?source=friends_link&sk=66896c27c972a1b9844bbbf48923671c)
+- [Meet The Winners of Swahili News Classification Challenge](https://medium.com/@Davis_David/meet-the-winners-of-swahili-news-classification-challenge-60f5edd7aa9?source=friends_link&sk=e68778c0f3f809cf4c3a917ca9b4ac39)
+- [Introduction to Anomaly Detection using Machine Learning with a Case Study](https://medium.com/analytics-vidhya/introduction-to-anomaly-detection-using-machine-learning-with-a-case-study-part-two-f78243f74d2f?source=friends_link&sk=6b7294b5f8a376bf16a1252a37e5c3d8)
+- [How to Enter Your First Zindi Competition](https://medium.com/@Davis_David/how-to-enter-your-first-zindi-competition-3e9ce335d34b?source=friends_link&sk=31c41757764307c4db285eb5d623f27d)
+- [How to Run Machine Learning Experiments with Python Logging Module](https://medium.com/analytics-vidhya/how-to-run-machine-learning-experiments-with-python-logging-module-9030fbee120e?source=friends_link&sk=3800817b2ff4a1982d197aba56a25bb3)
+- [Auto Format your Python Code with Black.](https://medium.com/analytics-vidhya/auto-format-your-python-code-with-black-f74d5f13bd7c?source=friends_link&sk=990e16094f2e580c34aecdb3730fb147)
+- [Get Started With Big Data Analytics For Your Business.](https://medium.com/parrotai/get-started-with-big-data-analytics-for-your-business-5702e1f4de6e?source=friends_link&sk=84c3a7c014db0801335e0469ee96834d)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💼 Where i am currently working at/as
@@ -63,14 +67,12 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [Instagram](https://www.instagram.com/davis.genius) 😎
 - [LinkedIn](https://www.linkedin.com/in/davis-david-783461124) 👨💼
 - [Blog](https://medium.com/@Davis_David) 🤓💻
+- [FreeCodeCamp](https://www.freecodecamp.org/news/author/davis/) 🤓💻
 - [Zindi Africa](https://zindi.africa/users/Davisy) 🔗🔗
 
 
 
-![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&theme=radical)
-
-
-### Hi there 👋
+[![Davis's github stats](https://github-readme-stats.vercel.app/api?username=Davisy&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Davisy/Davisy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
