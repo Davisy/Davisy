@@ -58,7 +58,9 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 <div align="center">
   [![Davis's github stats](https://github-readme-stats.vercel.app/api?username=Davisy&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davisy&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 </div>  
 
