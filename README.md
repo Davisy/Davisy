@@ -1,13 +1,7 @@
 
 
-## [![stephen ajulu's header](https://github.com/stephenajulu/stephenajulu/blob/master/images/edited%20header.png)](https://stephenajulu.com)
+## [![Davis David's header](https://github.com/Davisy/Davisy/blob/master/Davis_David.png)](https://twitter.com/Davis_McDavid)
 
-<p align='center'>
-<a href="https://dev.to/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/stephenajulu/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-</p>
 
 <h2 align="center">Hello there! My name is Davis David. 🤓 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <p align="center">I'm a Software Developer, Data Scientist, Tech Content Creator and Zindi Africa Ambassador from Tanzania.
