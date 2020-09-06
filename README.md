@@ -16,48 +16,52 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 ### My Repositories Highlights 
 
+
+<p align="center">
 <!-- example how to align center -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=Run-Machine-Learning-Experiment" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=Run-Machine-Learning-Experiment" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=Model-Deployment-by-using-Flask" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=Model-Deployment-by-using-Flask" />
 </a>
+</p>
 
-
+<p align="center">
 <!-- example how to align center -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=Standard-Bank-Tech-Impact-Xente-credit-scoring-challenge" />
+  <img width="48% src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=Standard-Bank-Tech-Impact-Xente-credit-scoring-challenge" />
 </a>
-
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=BBC-News-Classifier-with-LSTM-" />
+  <img width="48% src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=BBC-News-Classifier-with-LSTM-" />
 </a>
+</p>
 
-
+<p align="center">
 <!-- example how to align center -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=TANZANIA-CORONA-VIRUS-TWEETS-DATA-EXPLORATORY-ANALYSIS" />
-</a>
-
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=Credit-Card-Fraud-Detection-using-PYOD-Library" />
-</a>
-
-
-<!-- example how to align center -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=How-to-Enter-Your-First-Zindi-Competition" />
+  <img width="48% src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=TANZANIA-CORONA-VIRUS-TWEETS-DATA-EXPLORATORY-ANALYSIS" />
 </a>
 
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=Texthero-Python-Toolkit" />
+  <img width="48% src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=Credit-Card-Fraud-Detection-using-PYOD-Library" />
+</a>
+</p>
+
+<p align="center">
+<!-- example how to align center -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="48% src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=How-to-Enter-Your-First-Zindi-Competition" />
 </a>
 
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img width="48% src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=Texthero-Python-Toolkit" />
+</a>
+</p>
 
 
 ### 📰 Blog Posts
@@ -83,18 +87,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [FreeCodeCamp](https://www.freecodecamp.org/news/author/davis/) 🤓💻
 - [Zindi Africa](https://zindi.africa/users/Davisy) 🔗🔗
 
-<span align='center'>
-  
-  [![Davis's github stats](https://github-readme-stats.vercel.app/api?username=Davisy&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</span>
-
-
-<span align='center'>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davisy&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-
-</span>  
+ 
 
 
 <p align="center">
