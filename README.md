@@ -96,13 +96,12 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 </span>  
 
-<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=Davisy&count_private=true&show_icons=true&theme=tokyonight" /></p>
 
 <p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Davisy&count_private=true&show_icons=true&theme=tokyonight" /></p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davisy&hide=html" alt="Github Stats" />
 </p>
 
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=Davisy&count_private=true&show_icons=true&theme=tokyonight" /></p>
 <!--
 **Davisy/Davisy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
