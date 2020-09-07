@@ -85,7 +85,8 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [gmail](mailto:davisdavid179@gmail.com): davisdavid179@gmail.com
 
 
-- ⚡ You may hire me if you need a Laravel  Developer or Data Scientist, for a remote job.
+
+<p align="center"> ⚡ You may hire me if you need a Laravel  Developer or Data Scientist, for a remote job.</p>
  
 
 
