@@ -85,10 +85,13 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [gmail](mailto:davisdavid179@gmail.com): davisdavid179@gmail.com
 
 
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <p align="center"> ⚡ You may hire me if you need a Laravel  Developer or Data Scientist, for a remote job.</p>
  
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davisy&hide=html" alt="Github Stats" />
