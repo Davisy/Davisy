@@ -81,7 +81,11 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [Blog](https://medium.com/@Davis_David) 🤓💻
 - [FreeCodeCamp](https://www.freecodecamp.org/news/author/davis/) 🤓💻
 - [Zindi Africa](https://zindi.africa/users/Davisy) 🔗🔗
+- [Telegram](https://t.me/Davisy): https://t.me/Davisy
+- [gmail](mailto:davisdavid179@gmail.com): davisdavid179@gmail.com
 
+
+- ⚡ You may hire me if you need a Laravel  Developer or Data Scientist, for a remote job.
  
 
 
