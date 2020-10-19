@@ -61,6 +61,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 ### 📰 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Hyperparameter Optimization Techniques to Improve Your Machine Learning Model's Performance](https://www.freecodecamp.org/news/hyperparameter-optimization-techniques-machine-learning/)
 - [14 Lesser-Known Impressive Features of Scikit Learn Library](https://towardsdatascience.com/14-lesser-known-impressive-features-of-scikit-learn-library-e7ea36f1149a?source=friends_link&sk=635389b9693d6a6d0454438e1a7d425d)
 - [How to Use Texthero to Prepare a Text-based Dataset for Your NLP Project](https://chatbotslife.com/how-to-use-texthero-to-prepare-a-text-based-dataset-for-your-nlp-project-734feea75a5a?source=friends_link&sk=c07790ae1b1d7c21e22428d94af9a5d0)
 - [15 Undiscovered & Open Source Machine Learning Frameworks You Need to Know in 2020](https://medium.com/analytics-vidhya/15-undiscovered-open-source-machine-learning-frameworks-you-need-to-know-in-2020-77ad6e6f109d?source=friends_link&sk=66896c27c972a1b9844bbbf48923671c)
@@ -70,7 +71,6 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [How to Run Machine Learning Experiments with Python Logging Module](https://medium.com/analytics-vidhya/how-to-run-machine-learning-experiments-with-python-logging-module-9030fbee120e?source=friends_link&sk=3800817b2ff4a1982d197aba56a25bb3)
 - [Auto Format your Python Code with Black.](https://medium.com/analytics-vidhya/auto-format-your-python-code-with-black-f74d5f13bd7c?source=friends_link&sk=990e16094f2e580c34aecdb3730fb147)
 - [Get Started With Big Data Analytics For Your Business.](https://medium.com/parrotai/get-started-with-big-data-analytics-for-your-business-5702e1f4de6e?source=friends_link&sk=84c3a7c014db0801335e0469ee96834d)
-- [Features Selection by using Voting Approach](https://medium.com/analytics-vidhya/feature-selection-by-using-voting-approach-e0d1c7182a21)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📫 Where to find me
