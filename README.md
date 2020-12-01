@@ -61,6 +61,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 ### 📰 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [How to deploy Machine Learning Model in Laravel Application](https://towardsdatascience.com/how-to-deploy-machine-learning-model-in-laravel-application-5e021494d316)
 - [How to Deploy your NLP Model to Production as an API with Algorithmia](https://www.freecodecamp.org/news/deploy-ml-model-to-production-as-api/)
 - [Hyperparameter Optimization Techniques to Improve Your Machine Learning Model's Performance](https://www.freecodecamp.org/news/hyperparameter-optimization-techniques-machine-learning/)
 - [14 Lesser-Known Impressive Features of Scikit Learn Library](https://towardsdatascience.com/14-lesser-known-impressive-features-of-scikit-learn-library-e7ea36f1149a?source=friends_link&sk=635389b9693d6a6d0454438e1a7d425d)
