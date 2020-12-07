@@ -80,7 +80,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [Twitter](https://twitter.com/Davis_McDavid) 🐤
 - [Instagram](https://www.instagram.com/davis.genius) 😎
 - [LinkedIn](https://www.linkedin.com/in/davis-david-783461124) 👨💼
-- [Blog](https://medium.com/@Davis_David) 🤓💻
+- [Blog](https://davis-david.medium.com/) 🤓💻
 - [FreeCodeCamp](https://www.freecodecamp.org/news/author/davis/) 🤓💻
 - [Zindi Africa](https://zindi.africa/users/Davisy) 🔗🔗
 - [Telegram](https://t.me/Davisy): https://t.me/Davisy
