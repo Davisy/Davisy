@@ -61,6 +61,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 ### 📰 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [How to Deploy a Machine Learning Model for Free — 7 ML Model Deployment Cloud Platforms](https://medium.com/analytics-vidhya/how-to-deploy-a-machine-learning-model-for-free-7-ml-model-deployment-cloud-platforms-fd9191726a10)
 - [How to deploy Machine Learning Model in Laravel Application](https://towardsdatascience.com/how-to-deploy-machine-learning-model-in-laravel-application-5e021494d316)
 - [How to Deploy your NLP Model to Production as an API with Algorithmia](https://www.freecodecamp.org/news/deploy-ml-model-to-production-as-api/)
 - [Hyperparameter Optimization Techniques to Improve Your Machine Learning Model's Performance](https://www.freecodecamp.org/news/hyperparameter-optimization-techniques-machine-learning/)
