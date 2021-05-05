@@ -83,6 +83,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [LinkedIn](https://www.linkedin.com/in/davis-david-783461124) 👨💼
 - [Blog](https://davis-david.medium.com/) 🤓💻
 - [FreeCodeCamp](https://www.freecodecamp.org/news/author/davis/) 🤓💻
+- [Hackernoon](https://hackernoon.com/u/davisdavid) 🤖💻
 - [Zindi Africa](https://zindi.africa/users/Davisy) 🔗🔗
 - [Telegram](https://t.me/Davisy): https://t.me/Davisy
 - [gmail](mailto:davisdavid179@gmail.com): davisdavid179@gmail.com
