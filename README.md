@@ -61,6 +61,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 ### 📰 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [10 Best African Language Datasets for Data Science Projects](https://hackernoon.com/10-best-african-language-datasets-for-data-science-projects-l51h34xw)
 - [How to Deploy a Machine Learning Model for Free — 7 ML Model Deployment Cloud Platforms](https://medium.com/analytics-vidhya/how-to-deploy-a-machine-learning-model-for-free-7-ml-model-deployment-cloud-platforms-fd9191726a10)
 - [How to deploy Machine Learning Model in Laravel Application](https://towardsdatascience.com/how-to-deploy-machine-learning-model-in-laravel-application-5e021494d316)
 - [How to Deploy your NLP Model to Production as an API with Algorithmia](https://www.freecodecamp.org/news/deploy-ml-model-to-production-as-api/)
@@ -73,7 +74,6 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [How to Enter Your First Zindi Competition](https://medium.com/@Davis_David/how-to-enter-your-first-zindi-competition-3e9ce335d34b?source=friends_link&sk=31c41757764307c4db285eb5d623f27d)
 - [How to Run Machine Learning Experiments with Python Logging Module](https://medium.com/analytics-vidhya/how-to-run-machine-learning-experiments-with-python-logging-module-9030fbee120e?source=friends_link&sk=3800817b2ff4a1982d197aba56a25bb3)
 - [Auto Format your Python Code with Black.](https://medium.com/analytics-vidhya/auto-format-your-python-code-with-black-f74d5f13bd7c?source=friends_link&sk=990e16094f2e580c34aecdb3730fb147)
-- [Get Started With Big Data Analytics For Your Business.](https://medium.com/parrotai/get-started-with-big-data-analytics-for-your-business-5702e1f4de6e?source=friends_link&sk=84c3a7c014db0801335e0469ee96834d)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📫 Where to find me
