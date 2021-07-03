@@ -8,6 +8,8 @@
 I have a background in Computer Science. I'm passionate about Artificial Intelligence, Machine Learning, Deep Learning and Big Data. I'm also the Co-Organizer and Facilitator of Artificial Intelligence (AI) movement in Tanzania by conducting AI meetups, workshops and events with a passion to build a community of Data Scientists in Tanzania to solve our local problems. Also, I organized Pythontz and TanzanAi Lab Community and conduct different Machine Learning Hackathons in Tanzania. 
 When I'm not developing and building things, you can find me on Youtube learning, writing  articles, watching movies and Football games and jogging. But most of my days are spent working on projects while listening to slow background music.</p>
 
+![](https://komarev.com/ghpvc/?username=Davisy&color=blue)
+
 ### My Repositories Highlights 
 
 
