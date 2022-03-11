@@ -16,11 +16,11 @@ When I'm not developing and building things, you can find me on Youtube learning
 <p align="center">
 <!-- example how to align center -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=Run-Machine-Learning-Experiment" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=Financial-Inclusion-in-Africa-App" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=Model-Deployment-by-using-Flask" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=Deploy-NLP-Model-with-FastAPI" />
 </a>
 </p>
 
@@ -32,14 +32,14 @@ When I'm not developing and building things, you can find me on Youtube learning
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=BBC-News-Classifier-with-LSTM-" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=Swahili-News-Classifier-Streamlit-App" />
 </a>
 </p>
 
 <p align="center">
 <!-- example how to align center -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=TANZANIA-CORONA-VIRUS-TWEETS-DATA-EXPLORATORY-ANALYSIS" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=Swahili-Tweet-Sentiment-Analysis-App" />
 </a>
 
 
@@ -56,7 +56,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=Texthero-Python-Toolkit" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Davisy&theme=tokyonight&repo=Swahili-News-Classifier-API" />
 </a>
 </p>
 
