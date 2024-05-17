@@ -4,9 +4,9 @@
 
 
 <h2 align="center">Hello there! My name is Davis David. 🤓 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
-<p align="center">I'm a Software Developer, Data Scientist, Tech Content Creator and Zindi Africa Ambassador from Tanzania.
+<p align="center">I'm a Software Developer, Data Scientist, Technical writer and ML Course Author from Tanzania.
 I have a background in Computer Science. I'm passionate about Artificial Intelligence, Machine Learning, Deep Learning and Big Data. I'm also the Co-Organizer and Facilitator of Artificial Intelligence (AI) movement in Tanzania by conducting AI meetups, workshops and events with a passion to build a community of Data Scientists in Tanzania to solve our local problems. Also, I organized Pythontz and TanzanAi Lab Community and conduct different Machine Learning Hackathons in Tanzania. 
-When I'm not developing and building things, you can find me on Youtube learning, writing  articles, watching movies and Football games and jogging. But most of my days are spent working on projects while listening to slow background music.</p>
+When I'm not developing and building things, you can find me on YouTube learning, writing  articles, watching movies and Football games and jogging. But most of my days are spent working on projects while listening to jazz music.</p>
 
 
 ![](https://komarev.com/ghpvc/?username=Davisy&color=blue)
@@ -64,19 +64,11 @@ When I'm not developing and building things, you can find me on Youtube learning
 
 ### 📰 Latest Articles
 <!-- BLOG-POST-LIST:START -->
-- [10 Best African Language Datasets for Data Science Projects](https://hackernoon.com/10-best-african-language-datasets-for-data-science-projects-l51h34xw)
-- [How to Deploy a Machine Learning Model for Free — 7 ML Model Deployment Cloud Platforms](https://medium.com/analytics-vidhya/how-to-deploy-a-machine-learning-model-for-free-7-ml-model-deployment-cloud-platforms-fd9191726a10)
-- [How to deploy Machine Learning Model in Laravel Application](https://towardsdatascience.com/how-to-deploy-machine-learning-model-in-laravel-application-5e021494d316)
-- [How to Deploy your NLP Model to Production as an API with Algorithmia](https://www.freecodecamp.org/news/deploy-ml-model-to-production-as-api/)
-- [Hyperparameter Optimization Techniques to Improve Your Machine Learning Model's Performance](https://www.freecodecamp.org/news/hyperparameter-optimization-techniques-machine-learning/)
-- [14 Lesser-Known Impressive Features of Scikit Learn Library](https://towardsdatascience.com/14-lesser-known-impressive-features-of-scikit-learn-library-e7ea36f1149a?source=friends_link&sk=635389b9693d6a6d0454438e1a7d425d)
-- [How to Use Texthero to Prepare a Text-based Dataset for Your NLP Project](https://chatbotslife.com/how-to-use-texthero-to-prepare-a-text-based-dataset-for-your-nlp-project-734feea75a5a?source=friends_link&sk=c07790ae1b1d7c21e22428d94af9a5d0)
-- [15 Undiscovered & Open Source Machine Learning Frameworks You Need to Know in 2020](https://medium.com/analytics-vidhya/15-undiscovered-open-source-machine-learning-frameworks-you-need-to-know-in-2020-77ad6e6f109d?source=friends_link&sk=66896c27c972a1b9844bbbf48923671c)
-- [Meet The Winners of Swahili News Classification Challenge](https://medium.com/@Davis_David/meet-the-winners-of-swahili-news-classification-challenge-60f5edd7aa9?source=friends_link&sk=e68778c0f3f809cf4c3a917ca9b4ac39)
-- [Introduction to Anomaly Detection using Machine Learning with a Case Study](https://medium.com/analytics-vidhya/introduction-to-anomaly-detection-using-machine-learning-with-a-case-study-part-two-f78243f74d2f?source=friends_link&sk=6b7294b5f8a376bf16a1252a37e5c3d8)
-- [How to Enter Your First Zindi Competition](https://medium.com/@Davis_David/how-to-enter-your-first-zindi-competition-3e9ce335d34b?source=friends_link&sk=31c41757764307c4db285eb5d623f27d)
-- [How to Run Machine Learning Experiments with Python Logging Module](https://medium.com/analytics-vidhya/how-to-run-machine-learning-experiments-with-python-logging-module-9030fbee120e?source=friends_link&sk=3800817b2ff4a1982d197aba56a25bb3)
-- [Auto Format your Python Code with Black.](https://medium.com/analytics-vidhya/auto-format-your-python-code-with-black-f74d5f13bd7c?source=friends_link&sk=990e16094f2e580c34aecdb3730fb147)
+- [Automating Financial Statement Analysis for Microfinance: A Developer’s Guide](https://python.plainenglish.io/automating-financial-statement-analysis-for-microfinance-a-developers-guide-80b8b5fccded)
+- [Scrapy vs. Selenium for Web Scraping](https://brightdata.com/blog/web-data/scrapy-vs-selenium)
+- [Guide To Scraping E-Commerce Websites](https://www.scrapingbee.com/blog/guide-to-scraping-e-commerce-websites/)
+- [7 NLP Project Ideas to Enhance Your NLP Skills](https://hackernoon.com/7-nlp-project-ideas-to-enhance-your-nlp-skills)
+- [Getting Started With Goutte](https://www.scrapingbee.com/blog/getting-started-with-goutte/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📫 Where to find me
@@ -89,6 +81,7 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [FreeCodeCamp](https://www.freecodecamp.org/news/author/davis/) 🤓💻
 - [Hackernoon](https://hackernoon.com/u/davisdavid) 🤖💻
 - [Zindi Africa](https://zindi.africa/users/Davisy) 🔗🔗
+- [Educative Inc](https://www.educative.io/courses/mastering-hyperparameter-optimization-for-machine-learning)👨🏽‍💻👩🏼‍💻
 - [Telegram](https://t.me/Davisy): https://t.me/Davisy
 - [gmail](mailto:davisdavid179@gmail.com): davisdavid179@gmail.com
 
